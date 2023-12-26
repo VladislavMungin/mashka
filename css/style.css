@@ -858,6 +858,7 @@ text-align: justify;
   }
   .clev{
     background-image: none;
+    margin-top: 50px;
   }
   .clev-left{
     background-image:url(../img/clev-bg.png);
@@ -912,5 +913,8 @@ text-align: justify;
   }
   .cil-text-box{
     padding: 0;
+  }
+  .footer{
+    margin-top: 50px;
   }
 }
