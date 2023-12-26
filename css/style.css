@@ -772,7 +772,7 @@ text-align: right;
   margin-bottom: 20px;
 }
 
-@media(min-width:1919px){
+@media(max-width:19210px){
   .test{
     min-height: 80vh;
   }
@@ -840,7 +840,7 @@ text-align: justify;
   }
 }
 
-@media (min-width:1440px){
+@media (max-width:1445px){
   .clev__wrapper{
     justify-content: center;
   }
